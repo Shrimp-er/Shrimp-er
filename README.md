@@ -6,7 +6,8 @@
 
 <p align="center">   ${{\color{#c9cfdb} ♡ (˶˃ ᵕ ˂˶) 𝐿𝒾𝓃𝓀𝓈~ }}$ 
 
-&nbsp; <p align="center"> [<img width="149" height="144" alt="image" src="https://github.com/user-attachments/assets/669f6edb-c9d9-4869-ae95-036d3f559139" />](https://arlechino.atabook.org/) 
+&nbsp; <p align="center"> [<img width="149" height="144" alt="image" src="https://github.com/user-attachments/assets/669f6edb-c9d9-4869-ae95-036d3f559139" />](https://arlechino.atabook.org/) [<img width="140" height="131" alt="image" src="https://github.com/user-attachments/assets/a3747887-22f3-42f5-923d-e8669d3c2706" />](https://genshinuid.straw.page/)  
+
 
 <p align="center">   ${{\color{#678198} ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚ }}$ 
 
