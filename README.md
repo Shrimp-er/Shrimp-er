@@ -7,6 +7,28 @@
 
 <p align="center">   ${{\color{#678198} ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚ }}$ 
 
+ <table border="0">
+<tr>
+<td align="center" valign="middle" width="60%">
+<img width="743" height="414" alt="image" src="https://github.com/user-attachments/assets/9dc6e52b-ba55-4d11-b73d-b919a167b3be" />
+</td>
+<td align="center" valign="middle" width="40%">
+<br><br>
+<table border="1" cellpadding="8" cellspacing="0" width="80%">
+<tr><td align="center"> 15yr. Eats mochi for living</td></tr>
+</table>
+<br>
+<p>
+<img width="86" height="76" alt="image" src="https://github.com/user-attachments/assets/a93354a4-d477-428c-b668-a57a96bdd01a" />
+</p>
+<br>
+<table border="1" cellpadding="8" cellspacing="0" width="80%">
+<tr><td align="center"> Your my Suguru to my Satoru.</td></tr>
+</table>
+</td>
+</tr>
+</table>
+<p float="center">
 
 <p align="center">   ${{\color{#c9cfdb} ♡ (˶˃ ᵕ ˂˶) 𝐿𝒾𝓃𝓀𝓈~ }}$ 
 
