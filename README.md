@@ -15,7 +15,7 @@
 <td align="center" valign="middle" width="40%">
 <br><br>
 <table border="1" cellpadding="8" cellspacing="0" width="80%">
-<tr><td align="center"> 15yr. Eats mochi for living</td></tr>
+<tr><td align="center"> 15𝖞𝖗. 𝕰𝖆𝖙𝖘 𝖒𝖔𝖈𝖍𝖎 𝖋𝖔𝖗 𝖑𝖎𝖛𝖎𝖓𝖌 </td></tr>
 </table>
 <br>
 <p>
@@ -23,7 +23,7 @@
 </p>
 <br>
 <table border="1" cellpadding="8" cellspacing="0" width="80%">
-<tr><td align="center"> Arlecchino is so cuul! </td></tr>
+<tr><td align="center"> 𝕻𝖗𝖔 𝖆𝖙 𝖉𝖔𝖎𝖓𝖌 𝖓𝖔𝖙𝖍𝖎𝖓𝖌! </td></tr>
 </table>
 </td>
 </tr>
