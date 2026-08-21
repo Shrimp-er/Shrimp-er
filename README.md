@@ -23,7 +23,7 @@
 </p>
 <br>
 <table border="1" cellpadding="8" cellspacing="0" width="80%">
-<tr><td align="center"> Your my Suguru to my Satoru.</td></tr>
+<tr><td align="center"> Arlecchino is so cuul! </td></tr>
 </table>
 </td>
 </tr>
